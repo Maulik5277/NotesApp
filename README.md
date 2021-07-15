@@ -2,7 +2,7 @@
 ## Usge
 - Implement a Notes App using FileManager
 - It is a simple Notes Application ,with UserDefaults
-## UIElements
+## Used UIelements
 - UILabel
 - UITextField
 - UITextView
@@ -10,3 +10,7 @@
 - UITableView
 - UIImageView
 - UIImagePickerController
+
+## GIF
+
+## ScreenShort
