@@ -1,7 +1,6 @@
 # NotesApp
-## Usge
-- Implement a Notes App using FileManager
-- It is a simple Notes Application ,with UserDefaults
+### Implement a Notes App using FileManager
+### It is a simple Notes Application ,with UserDefaults
 ## Used UIelements
 - UILabel
 - UITextField
