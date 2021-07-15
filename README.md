@@ -13,4 +13,4 @@
 
 ## GIF
 
-## ScreenShort
+## ScreenShot
