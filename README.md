@@ -12,5 +12,6 @@
 - UIImagePickerController
 
 ## GIF
-
+#####  1
+![Page 1](Notes.gif)
 ## ScreenShot
